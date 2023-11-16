@@ -1,5 +1,5 @@
 hello
-2nd commit 7th commit in main branch
+2nd commit conflicting change in second branch
 3rd commit
 4th commit in second branch
 5th commit in second branch
